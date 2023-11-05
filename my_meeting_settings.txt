@@ -1,0 +1,5 @@
+My meeting settings
+
+    From here you can change the language to fit you.
+    Controal the availability to koin meeting dashboard.
+    Enable the keybpard shortcuts.

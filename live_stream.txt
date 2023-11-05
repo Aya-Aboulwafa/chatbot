@@ -1,0 +1,4 @@
+Live stream
+
+    If you hove your own Youtube channel, you can live stream while recording the meeting at the same time.
+    Get your Youtube key and enter it to start your live stream.

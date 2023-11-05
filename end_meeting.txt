@@ -1,0 +1,3 @@
+End meeting
+
+End meeting for all : to end the meeting for all the users and you cannot return to the same meeting once more, and its an option for the moderator of the meeting only.

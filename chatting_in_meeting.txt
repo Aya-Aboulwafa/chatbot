@@ -1,0 +1,8 @@
+Chatting in the meeting
+Chat with others#
+
+The Viewer and Control Panel includes a Chat pane where you can exchange messages with other participants. You'll be notified if you receive a chat and your Chat pane is minimized.
+
+    Everyone - Send a message to all meeting attendees
+    Organizer(s) only - Send a message only to organizers and co-organizers.
+    Specific attendee - Send a private message to just that person.

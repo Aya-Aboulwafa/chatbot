@@ -1,0 +1,13 @@
+Start meeting
+
+You can easily start a meeting :
+
+1-When you start the application.
+
+2- Click on the meeting icon
+
+3-Select “Quick meeting"
+
+4-Write the "your name"
+
+5-Press join the meeting to start the meeting.

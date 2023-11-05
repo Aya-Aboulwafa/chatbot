@@ -1,0 +1,9 @@
+Moderator control
+
+-To mute everyone when they enter the meeting.
+
+-Everyone starts hidden: they will not be shawn in the participant panel.
+
+-Everyone follows me: whatever the state of my camera or audio as an organize will be applied for them.
+
+-Mute reaction sounds for everyone: when they use emojies or raise hand funtion.

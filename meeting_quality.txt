@@ -1,0 +1,9 @@
+Meeting quality
+Meeting performance#
+
+Adjust the quality of the meeting, depending on your internet connection and data.
+Noise suppression#
+
+If there is any noise in the background and disturbing the audio in the meeting.
+
+When you sekect the "Noise suppression" it decrease the audio disturbation around you.

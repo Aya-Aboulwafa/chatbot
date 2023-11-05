@@ -1,0 +1,13 @@
+Join meeting
+
+You can easily join a meeting :
+
+1-When you start the application.
+
+2- Click on the meeting icon
+
+3-Select “Join meeting"
+
+4-Write the "meeting ID" and "your name"
+
+5-Press join the meeting to start the meeting.

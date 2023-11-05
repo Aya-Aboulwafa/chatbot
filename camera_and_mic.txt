@@ -1,0 +1,8 @@
+Camera and Mic
+Set up your audio and camera#
+
+When you first join, you'll be prompted to choose which audio method and camera you'd like to use and how you'll appear in the meeting upon launch. Click the Settings icon to switch audio modes or devices.
+
+    Select the audio to choose the option.
+    Selcet the camera to selct the options and the background if avilabele.
+    Selct the audio to choose the option.

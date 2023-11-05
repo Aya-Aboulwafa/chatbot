@@ -1,0 +1,9 @@
+Share screen
+
+to share screen with your participants click on the share icon
+
+Select the desire window you want to share from "Chrome tab", "Window" of the pc and the "entire screen"
+
+Select “Start screensharing”
+
+a window will appear confirmation to have access to the information that will be shown and share. Click start now to share your current screen.

@@ -1,0 +1,32 @@
+Record the meeting
+Desktop app or web#
+
+    Start or join a meeting.
+    Optional: Make sure you are sharing your screen or an application if you want them included in the recording.
+    Select Record from the setting panel .
+
+    it will be downloaded to your desktop automatically.
+
+    Record only my audio and video: to record the moderators’only.
+
+    Make sure that the recording is only for 100 minute.
+
+    Recording the session the participants will not be announced.
+
+    Click start recording to start to record the meeting.
+
+    Result : The Record icon will glow, and attendees
+
+Mobile app#
+
+You must be recording online to the cloud vconnct mobile app.
+
+    Open the GoTo mobile app on your device.
+
+    Start or join a meeting.
+
+    Select More > Record.
+
+    Optional: To pause or stop the recording, select Pause . Alternatively, you can end the session. Note: Pausing and resuming will not break up the recording into multiple files.
+
+    What to do next : Once the meeting is over, you can access the recording in your account. It may take a couple minutes for the recording to appear.

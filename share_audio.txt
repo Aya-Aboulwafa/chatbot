@@ -1,0 +1,10 @@
+Share audio
+
+When you click on the setting icon, select "Share audio", to be able to share your audio while sharing your screen to the participants.
+
+a pop up will appear with a how to video to give a guide on how to share a certain audio, click continue .
+
+select the window you want to share its audio.
+
+you need to check the box down to be able to share the audio of the screen,
+

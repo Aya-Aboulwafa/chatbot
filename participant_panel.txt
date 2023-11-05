@@ -1,0 +1,69 @@
+Participant panel
+Mobile App#
+
+-Click on the participants icon you will see all the participants.
+
+-Click on “invite someone” a pop-up screen will appear to select the app you want to invite from.
+
+-You can search for participant from the search panel.
+
+-You as a moderator can start or stop your camera, mute and unmute from here also, when you click on any participant name a panel will appear:
+
+Users list:
+
+1-Ask to unmute:
+
+2-Mute: mute this certain participant.
+
+3-Mute everyone else: A pop notification will appear to inform you that you will mute the participants all except the selected user, and they will be able to unmute themselves but you as a moderator cannot unmute them.
+
+4-Disable camera: a pop will show to confirm that you want to disable this certain participant camera.
+
+5-Kick out: a pop will appear to confirm you want this certain user to leave the meeting,
+
+6-Grant moderator rights: this certain user will have all the moderator options.
+
+7-Send private message: you will be able to send private messages to this certain user.
+
+8-Connection info.
+
+9- The three dots at the corner:
+
+    “Stop everyone’s video”: pop will show to confirm that you want to disable all participants camera, and you will have the option to allow the users to start or do not start their camera once again, when you click on this toggle.
+    You as a moderator will have two control options where you can check or uncheck them if the users will be able to unmute themselves, or to start their video or not.
+
+10-“Mute all” button a pop will appear to confirm you that you will mute the participants, and they will be able to unmute themselves but you as a moderator cannot unmute them.
+Web App#
+
+-Click on the participants icon you will see all the participants in a panel.
+
+-You can search for participant from the search panel.
+
+1-You as a moderator can start or stop your camera, mute and unmute from here also, when you hover over any participant two buttons will appear:
+
+First : Ask to unmute.
+
+Second : three dots icon:
+
+2-Mute: mute this certain participant.
+
+3-Mute everyone else: A pop notification will appear to inform you that you will mute the participants all except the selected user, and they will be able to unmute themselves but you as a moderator cannot unmute them.
+
+4-Disable camera:
+
+a pop will show to confirm that you want to disable this certain participant camera.
+
+5-Kick out: a pop will appear to confirm you want this certain user to leave the meeting,
+
+6-Grant moderator rights: this certain user will have all the moderator options.
+
+7-Send private message: you will be able to send private messages to this certain user.
+
+8-Pin to stage:
+
+will be the one to appear in the middle of the screen even if he is not the one who is talking.
+
+9- The three dots at the corner:
+
+    “Stop everyone’s video”: pop will show to confirm that you want to disable all participants camera, and you will have the option to allow the users to start or do not start their camera once again, when you click on this toggle.
+    You as a moderator will have two control options where you can check or uncheck them if the users will be able to unmute themselves, or to start their video or not.

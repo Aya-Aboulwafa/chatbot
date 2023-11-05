@@ -1,0 +1,13 @@
+Car mode
+Mobile application#
+camera
+
+If you are having a meeting and you are in the car driving, you can easily attend it and use it without worries.
+
+Accessibility to the functions of the meeting is eassier while driving.
+
+Mute/unmute the voice from the mic icon, the video is stopped. When you click on “Select sound device” you can choose the desired sound for the audio.
+
+-Leave meeting button if you want to leave the meeting.
+
+-Select “close” to close the car mode feature.

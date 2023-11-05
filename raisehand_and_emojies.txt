@@ -1,0 +1,11 @@
+Raisehand and emojies
+
+To have an interactive meeting using the raisehand and emojies made it easier.
+Raisehand#
+
+I fyou have something to say or a comment related to the meeting click on it and it will be visible to the participants and moderator.
+Emojies#
+
+when you select any emoji a sound effects are included to be more interactive.
+
+to show the feeling for the users of the meeting, it is easy to use emojies.
